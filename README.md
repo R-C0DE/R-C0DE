@@ -2,7 +2,7 @@
 
 
 **R-C0DE/R-C0DE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![R-C0DE's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-C0DE&count_private=true)](https://github.com/R-C0DE/github-readme-stats)
+[![R-C0DE's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-C0DE&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/R-C0DE/github-readme-stats)
 
 - 🔭 I’m currently working on python...
 - 🌱 I’m currently learning node.js ...
