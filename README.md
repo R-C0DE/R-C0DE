@@ -2,7 +2,7 @@
 
 #### A 16 years old programmer. I code in python, javascript, css and currently learning node.js, sockets and react.js.
 
-[![R-C0DE's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-C0DE&count_private=true&border_radius=30&theme=midnight-purple)](https://github.com/R-C0DE/github-readme-stats)
+[![R-C0DE's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-C0DE&count_private=true&theme=midnight-purple&border_radius=30&border_color=40,000000,ff0000)](https://github.com/R-C0DE/github-readme-stats)
 
 [![Tic-Tac-Toe_pygane-android](https://github-readme-stats.vercel.app/api/pin/?username=R-C0DE&repo=Tic-Tac-Toe_pygame-android&theme=midnight-purple&border_radius=30)](https://github.com/R-C0DE/Tic-Tac-Toe_pygame-android)
 
