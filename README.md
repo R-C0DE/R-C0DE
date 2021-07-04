@@ -4,7 +4,7 @@
 
 [![R-C0DE's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-C0DE&count_private=true&theme=midnight-purple&border_radius=30&border_color=fff)](https://github.com/R-C0DE/github-readme-stats)
 
-[![Tic-Tac-Toe_pygane-android](https://github-readme-stats.vercel.app/api/pin/?username=R-C0DE&repo=Tic-Tac-Toe_pygame-android&theme=midnight-purple&border_radius=30&border_color=fff)](https://github.com/R-C0DE/Tic-Tac-Toe_pygame-android)
+[![Tic-Tac-Toe-pygane-android](https://github-readme-stats.vercel.app/api/pin/?username=R-C0DE&repo=Tic-Tac-Toe_pygame-android&theme=midnight-purple&border_radius=30&border_color=fff)](https://github.com/R-C0DE/Tic-Tac-Toe_pygame-android)
 
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=R-C0DE&langs_count=5&theme=midnight-purple&border_radius=30&border_color=fff&layout=compact)]()
 - 🔭 Currently working on python...
