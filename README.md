@@ -4,8 +4,7 @@
 
 [![R-C0DE's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-C0DE&count_private=true&show_icons=true&theme=midnight-purple&border_radius=30)](https://github.com/R-C0DE/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-C0DE)](https://github.com/R-C0DE/github-readme-stats)
-
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=R-C0DE&langs_count=5&theme=tokyonight)]()
 - 🔭 I’m currently working on python...
 - 🌱 I’m currently learning node.js, react.js and django...
 
